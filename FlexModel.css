@@ -1,0 +1,40 @@
+* {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+
+.sidenav {
+    border: 1px solid black;
+    background-color:cornsilk;
+    width: 20vw;
+    height: 99.7vh;
+}
+
+.header {
+    border: 1px solid black;
+    background-color: greenyellow;
+    width: 80.6vw;
+    height: 24.4vh;
+}
+
+.airtcle {
+    border: 1px solid black;
+    background-color: antiquewhite;
+    height: 50.5vh;
+    width: 60.5vw;
+}
+
+.asside {
+    height: 50.5vh;
+    width: 20vw;
+    border: 1px solid black;
+    background-color: bisque;
+}
+
+.footer {
+    width: 80.6vw;
+    height: 24.4vh;
+    border: 1px solid black;
+    background-color: greenyellow;
+}
